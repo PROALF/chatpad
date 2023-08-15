@@ -49,7 +49,7 @@ export function Logo(props: JSX.IntrinsicElements["svg"]) {
   );
 }
 
-  export function LogoIcon(props: JSX.IntrinsicElements["png"]) {
+export function LogoIcon(props: JSX.IntrinsicElements["svg"]) {
   return (
     <svg
       fill="none"
