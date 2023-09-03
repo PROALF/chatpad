@@ -122,8 +122,8 @@ export function SettingsModal({ children }: { children: ReactElement }) {
             </List.Item>
             <List.Item>
               <Text size="sm" color="dimmed">
-                The API Key is stored locally on your browser and never sent
-                anywhere else.
+              Der API-Schlüssel wird lokal in Ihrem Browser gespeichert und niemals
+                irgendwo anders hin.
               </Text>
             </List.Item>
           </List>

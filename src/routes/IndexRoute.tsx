@@ -29,12 +29,12 @@ export function IndexRoute() {
     <>
       <Center py="xl" sx={{ height: "100%" }}>
         <Container size="sm">
-          <Badge mb="lg">GPT-4 Ready</Badge>
+          <Badge mb="lg">Einfach.Alex</Badge>
           <Text>
-            <Logo style={{ maxWidth: 240 }} />
+            <Logo style={{ maxWidth: 100 }} />
           </Text>
           <Text mt={4} size="xl">
-            Not just another ChatGPT user-interface!
+            Das AllInOne GPT4 Interface - Test it Out
           </Text>
           <SimpleGrid
             mt={50}
@@ -71,13 +71,13 @@ export function IndexRoute() {
             {config.showDownloadLink && !window.todesktop && (
               <Button
                 component="a"
-                href="https://dl.todesktop.com/230313oyppkw40a"
-                // href="https://download.chatpad.ai/"
+                href="https://einfachalex.net"
+                // href="https://einfachalex.net"
                 size="md"
                 variant="outline"
                 leftIcon={<IconCloudDownload size={20} />}
               >
-                Download Desktop App
+                Demnächst auch als Download
               </Button>
             )}
           </Group>
@@ -90,20 +90,20 @@ export function IndexRoute() {
 const features = [
   {
     icon: IconCurrencyDollar,
-    title: "Free and open source",
+    title: "Frei und quelloffen",
     description:
-      "This app is provided for free and the source code is available on GitHub.",
+      "Diese App wird kostenlos zur Verfügung gestellt und der Quellcode ist auf GitHub verfügbar.",
   },
   {
     icon: IconLock,
     title: "Privacy focused",
     description:
-      "No tracking, no cookies, no bullshit. All your data is stored locally.",
+      "Kein Tracking, keine Cookies, kein Quatsch. Alle Ihre Daten werden lokal gespeichert.",
   },
   {
     icon: IconNorthStar,
-    title: "Best experience",
+    title: "Beste Erfahrung",
     description:
-      "Crafted with love and care to provide the best experience possible.",
+      "Mit Liebe und Sorgfalt hergestellt, um das bestmögliche Erlebnis zu bieten.",
   },
 ];
