@@ -5,21 +5,18 @@
 <!-- <p align="center"><a href="https://chatpad.ai">Web App</a> & <a href="https://download.chatpad.ai">Desktop App</a></p> -->
 <p align="center"><a href="https://chatpad.ai">Web App</a> & <a href="https://dl.todesktop.com/230313oyppkw40a">Desktop App</a></p>
 
-Recently, there has been a surge of UIs for ChatGPT, making it the new "to-do app" that everyone wants to try their hand at. Chatpad sets itself apart with a broader vision - to become the ultimate interface for ChatGPT users.
+### ⚡️ Kostenlos und quelloffen
 
-### ⚡️ Free and open source
+Diese App wird kostenlos zur Verfügung gestellt und der Quellcode ist auf GitHub verfügbar.
 
-This app is provided for free and the source code is available on GitHub.
+### 🔒 Privatsphäre im Fokus
 
-### 🔒 Privacy focused
+Kein Tracking, keine Cookies, kein Bullshit. Alle deine Daten werden lokal gespeichert.
 
-No tracking, no cookies, no bullshit. All your data is stored locally.
+### ✨ Beste Erfahrung
 
-### ✨ Best experience
+Mit Liebe und Sorgfalt entwickelt, um die bestmögliche Erfahrung zu bieten.
 
-Crafted with love and care to provide the best experience possible.
-
----
 
 ## Self-host using Docker
 
