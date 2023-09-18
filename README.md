@@ -21,7 +21,7 @@ Mit Liebe und Sorgfalt entwickelt, um die bestmögliche Erfahrung zu bieten.
 ## Self-host using Docker
 
 ```
-docker run --name chatpad -d -p 8080:80 ghcr.io/deiucanta/chatpad:latest
+docker run --name chatpad -d -p 8080:80 ghcr.io/PROALF/chatpad:latest
 ```
 
 ## Self-host using Docker with custom config
